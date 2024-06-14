@@ -130,7 +130,7 @@ class _TripsDataListState extends State<TripsDataList>
                       child: const Text(
                         "View More",
                         style: TextStyle(
-                          color: Colors.white,
+                          color: Colors.red,
                           fontWeight: FontWeight.bold,
                         ),
                       ),

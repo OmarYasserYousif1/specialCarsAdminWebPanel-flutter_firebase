@@ -98,7 +98,7 @@ class _UsersDataListState extends State<UsersDataList>
                     child: const Text(
                       "Block",
                       style: TextStyle(
-                        color: Colors.white,
+                        color: Colors.red,
                         fontWeight: FontWeight.bold,
                       ),
                     ),
